@@ -1,1 +1,1 @@
-Yes! This is my first readme (updated).
+This is my firt readme
